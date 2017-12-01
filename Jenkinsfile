@@ -1,33 +1,3 @@
-
-Skip to content
-This repository
-
-    Pull requests
-    Issues
-    Marketplace
-    Explore
-
-    @palmamanu
-
-0
-0
-
-    0
-
-palmamanu/uno
-Code
-Issues 0
-Pull requests 0
-Projects 0
-Wiki
-Insights
-Settings
-uno/Jenkinsfile
-d72ebcb 2 hours ago
-@palmamanu palmamanu Added Jenkinsfile
-@palmamanu
-@dmunozfer
-83 lines (83 sloc) 1.83 KB
 pipeline {
   agent any
   stages {
@@ -111,18 +81,3 @@ pipeline {
     }
   }
 }
-
-    © 2017 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    API
-    Training
-    Shop
-    Blog
-    About
-
